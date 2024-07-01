@@ -1,0 +1,182 @@
+# Blender 4.1.1 MTL File: 'None'
+# www.blender.org
+
+newmtl Aviyonik1Mtl.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.396078 0.396078 0.396078
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd Aviyonik1_diff.png
+map_d Aviyonik1_diff.png
+
+newmtl Aviyonik21Mtl.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.024223 0.024223 0.024223
+Ks 0.009594 0.009594 0.009594
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Aviyonik2Mtl.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.007155 0.018913 0.031551
+Ks 0.007607 0.007607 0.007607
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Aviyonik31Mtl.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.396078 0.396078 0.396078
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd Aviyonik31_diff.png
+map_d Aviyonik31_diff.png
+
+newmtl Aviyonik41Mtl.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.396078 0.396078 0.396078
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd Aviyonik41_diff.png
+map_d Aviyonik41_diff.png
+
+newmtl Aviyonik61Mtl.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.396078 0.396078 0.396078
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd Aviyonik61_diff.png
+map_d Aviyonik61_diff.png
+
+newmtl Aviyonik71Mtl.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.396078 0.396078 0.396078
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd Aviyonik71_diff.png
+map_d Aviyonik71_diff.png
+
+newmtl Aviyonik81Mtl.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.007155 0.018913 0.031551
+Ks 0.007607 0.007607 0.007607
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.552941
+illum 9
+
+newmtl Aviyonik91Mtl.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.396078 0.396078 0.396078
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd Aviyonik91_diff.png
+map_d Aviyonik91_diff.png
+
+newmtl Floor1Mtl.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.043137 0.043137 0.043137
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd Meshpart1_diff.png
+map_d Meshpart1_diff.png
+
+newmtl Joystick1Mtl.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.396078 0.396078 0.396078
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd Joystick1_diff.png
+map_d Joystick1_diff.png
+
+newmtl Meshpart1Mtl.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.396078 0.396078 0.396078
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd Meshpart1_diff.png
+map_d Meshpart1_diff.png
+
+newmtl Meshpart2Mtl.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.396078 0.396078 0.396078
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd Meshpart2_diff.png
+map_d Meshpart2_diff.png
+
+newmtl Meshpart4Mtl.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.007155 0.018913 0.031551
+Ks 0.007607 0.007607 0.007607
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.603922
+illum 9
+
+newmtl Panel11Mtl.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.396078 0.396078 0.396078
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd Panel11_diff.png
+map_d Panel11_diff.png
+
+newmtl Prop1Mtl.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.396078 0.396078 0.396078
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd Prop1_diff.png
+map_d Prop1_diff.png
+
+newmtl Seat1Mtl.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.396078 0.396078 0.396078
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd Seat1_diff.png
+map_d Seat1_diff.png
+
+newmtl Spinner1Mtl.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.396078 0.396078 0.396078
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+illum 2
+map_Kd Spinner1_diff.png
+map_d Spinner1_diff.png

@@ -1,0 +1,9 @@
+# Blender 4.1.1 MTL File: 'None'
+# www.blender.org
+
+newmtl AirTower01MAT
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+illum 2
+map_Kd AirTower01MAT_BaseColor.png

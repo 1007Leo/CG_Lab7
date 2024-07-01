@@ -1,0 +1,24 @@
+# Blender MTL File: 'Gaz51_Benzin_Rescue.blend'
+# Material Count: 2
+
+newmtl map_Body_Gaz51_001
+Ns 40.922348
+Ka 1.000000 1.000000 1.000000
+Kd 0.404357 0.090919 0.009594
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd map_Body_Gaz51_001_BaseColor.png
+
+newmtl map_wheels_Gaz51_01
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.045258 0.068192 0.122611
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd map_wheels_Gaz51_01_BaseColor.png
