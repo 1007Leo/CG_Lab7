@@ -303,6 +303,13 @@ document.addEventListener('keyup', (e) => {
 })
 
 document.addEventListener('keydown', (e) => {
+    if (e.key == "l") {
+        if (lightUniforms.uDirectionalLightSwitch == 1.0)
+            lightUniforms.uDirectionalLightSwitch = 0.0;
+        else
+            lightUniforms.uDirectionalLightSwitch = 1.0;
+        console.log(lightUniforms.uDirectionalLightSwitch);
+    }
 
     if (!freemode) {
         // plane controls
@@ -421,6 +428,8 @@ let constAtt = 1.0;
 let linAtt = 0.0;
 let qAtt = 0.001;
 
+let directionalLightSwitch = 1.0;
+
 const lightUniforms = {
     uLightPosition: lightPos,
     uLightDirection: lightDirection,
@@ -436,6 +445,7 @@ const lightUniforms = {
 
     uAmbinetStrength: ambientStrength,
     uSpecularStrength: specularStrength,
+    uDirectionalLightSwitch: directionalLightSwitch,
   };
 
 /*==================== Textures =====================*/

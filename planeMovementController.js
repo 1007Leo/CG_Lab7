@@ -26,7 +26,6 @@ class PlaneMovementController {
     }
 
     update() {
-        console.log(this.speed);
         // make parameters non negative
         if (this.speed < 0)
             this.speed = 0;

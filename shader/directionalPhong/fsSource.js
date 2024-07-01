@@ -12,6 +12,7 @@ const fsSource =
         uniform vec3 uSpecularLightColor;
 
         uniform sampler2D uTexture;
+        uniform float uDirectionalLightSwitch;
 
         out vec4 color;
 
@@ -27,7 +28,7 @@ const fsSource =
             float specularFactor = pow(max(dot(reflectDir, viewDir), 0.0), 70.0); // Shininess factor
             vec3 specularColor = uSpecularLightColor * specularFactor;
             
-            vec3 finalColor = uAmbientLightColor + diffuseColor + specularColor;
+            vec3 finalColor = uAmbientLightColor + (diffuseColor + specularColor) * uDirectionalLightSwitch;
             
             vec4 textureColor = texture (uTexture, vTextureCoord);
             finalColor *= textureColor.rgb;
